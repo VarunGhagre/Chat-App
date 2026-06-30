@@ -54,7 +54,7 @@ export const markMessageAsSeen = async (req, res)=>{
         await Message.findByIdAndUpdate(id, {seen: true})
         res.json({success: true})
     } catch (error) {
-        console.log(error.message);
+        
         res.json({success: false,  messages: error.message});
     }
 }

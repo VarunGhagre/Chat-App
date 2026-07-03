@@ -129,7 +129,6 @@ Add screenshots here:
 - Register Page
 - Chat Window
 - Online Users
-- Mobile View
 
 ---
 

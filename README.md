@@ -166,7 +166,6 @@ Add screenshots here:
 - Typing Indicator
 - Read Receipts
 - Push Notifications
-- Dark Mode
 
 ---
 

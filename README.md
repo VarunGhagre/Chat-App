@@ -22,7 +22,7 @@ A full-stack real-time chat application built using the MERN Stack and Socket.IO
 - Tailwind CSS
 - Axios
 - React Router DOM
-- Socket.IO Client
+
 
 ### Backend
 - Node.js

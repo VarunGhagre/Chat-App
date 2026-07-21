@@ -4,7 +4,7 @@ A full-stack real-time chat application built using the MERN Stack and Socket.IO
 
 ## 🚀 Features
 
-- 🔐 User Authentication (JWT)
+- 🔐 User Authentication 
 - 👤 User Registration & Login
 - 💬 One-to-One Real-Time Chat
 - 🟢 Online/Offline User Status

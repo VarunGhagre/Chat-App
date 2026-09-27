@@ -183,7 +183,7 @@ Contributions are welcome!
 
 ## ⭐ Support
 
-If you found this project helpful, don't forget to give it a **Star ⭐** on GitHub.
+If you found this project helpful, don't forget to give it a **Star ⭐** on GitHub
 
 ---
 
